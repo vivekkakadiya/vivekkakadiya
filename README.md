@@ -27,6 +27,14 @@
   <br/>
 
   
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekkakadiya&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="vivek Github Stats">
+<br />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkakadiya&layout=compact&theme=dark&bg_color=0A0A0A" alt="vivek kakadiya Top Languages"/>
+<br />
+<br />
+  
 
 [![vivek Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=vivekkakadiya&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/vivekkakadiya)
 
