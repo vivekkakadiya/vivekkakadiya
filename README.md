@@ -20,11 +20,11 @@ and learning programming through small projects  on the side.
 class AbhigyanTrips():
     
   def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
+    self.name = "Vivek kakadiya";
+    self.username = "vivekkakadiya";
+    self.location = "rajkot, India";
+    self.twitter = "@vivekkakadiya0";
+
   
   def __str__(self):
     return self.name
@@ -53,7 +53,7 @@ if __name__ == '__main__':
 <p align="left">
   <a href="https://abhigyantrips.dev/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=vivekkakadiya&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekkakadiya&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
