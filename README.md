@@ -21,13 +21,11 @@
 <br>
 
 
-  <br/>
-<br/>
+
 <br/>
   <a href="https://github.com/vivekkakadiya/github-readme-stats"><img alt="vivek kakadiya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkakadiya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <br/>
-  <br/>
+
   
 
 [![vivek Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=vivekkakadiya&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/vivekkakadiya)
