@@ -1,7 +1,18 @@
 <h1 align="center">
   <b>Vivek Kakadiya</b>
 </h1>
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://discord.gg/bMtfdQDR">
+  <img align="left" alt="Samarpit's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/vivekkakadiya0">
+  <img align="left" alt="Samarpit Santoki | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://in.linkedin.com/in/vivek-kakadiya">
+  <img align="left" alt="Samarpit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=vivekkakadiya)
 <br>
 
 <p>
