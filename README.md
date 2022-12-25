@@ -42,7 +42,7 @@
   
 
 
-[![vivek Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=vivekkakadiya&custom_title=vivek%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/vivekkakadiya)
+[![vivek Trips' Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=vivekkakadiya&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)](https://github.com/vivekkakadiya)
 
 ------
 
