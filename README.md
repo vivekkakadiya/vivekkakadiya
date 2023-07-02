@@ -13,7 +13,7 @@
 </a>
 
 
-![](https://komarev.com/ghpvc/?username=vivekkakadiya)
+<a href="https://hits.sh/github.com/vivekkakadiya/"><img alt="Hits" src="https://hits.sh/github.com/vivekkakadiya.svg?label=Profile%20views&color=2E3440&labelColor=434C5E"/></a>
 <br>
 
 <p>
@@ -24,18 +24,23 @@
 ## My Statistics
 
 <br/>
-<p align="left">
+<p align="center">
   <a href="https://github.com/vivekkakadiya">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=vivekkakadiya&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekkakadiya&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=vivekkakadiya&show_icons=true&theme=nord&hide_border=true&rank_icon=github" />
+    
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/vivekkakadiya">
+    
+<img width="49.5%" src="https://streak-stats.demolab.com?user=vivekkakadiya&theme=nord" />
+  </a>
+</p>
+[![GitHub Streak]()](https://git.io/streak-stats)
 <br>
 
 
 
-
-  <a href="https://github.com/vivekkakadiya/github-readme-stats"><img alt="vivek kakadiya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkakadiya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
   
