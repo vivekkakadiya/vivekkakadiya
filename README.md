@@ -46,7 +46,6 @@
   
 
 
-[![vivek Trips' Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=vivekkakadiya&theme=react-dark)](https://github.com/vivekkakadiya)
 
 ------
 
