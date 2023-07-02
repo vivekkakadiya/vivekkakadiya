@@ -36,7 +36,7 @@
 <img width="49.5%" src="https://streak-stats.demolab.com?user=vivekkakadiya&theme=nord" />
   </a>
 </p>
-[![GitHub Streak]()](https://git.io/streak-stats)
+
 <br>
 
 
