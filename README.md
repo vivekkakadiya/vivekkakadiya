@@ -13,7 +13,7 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=vivekkakadiya.vivekkakadiya)
+![](https://komarev.com/ghpvc/?username=vivekkakadiya)
 <br>
 
 <p>
