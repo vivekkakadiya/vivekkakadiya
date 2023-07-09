@@ -3,13 +3,13 @@
 </h1> -->
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/nfVuEH2pkA">
-  <img align="left" alt="Vivek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Vivek's Discord" width="22px" src="https://github.com/vivekkakadiya/vivekkakadiya/assets/84114759/7c142ff4-edc6-4469-94ac-25e00ef34f99" />
 </a>
 <a href="https://twitter.com/vivekkakadiya0">
-  <img align="left" alt="Vivek Kakadiya | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Vivek Kakadiya | Twitter" width="22px" src="https://github.com/vivekkakadiya/vivekkakadiya/assets/84114759/b609f72a-88c7-48ee-bba6-789324f7fc4b" />
 </a>
 <a href="https://in.linkedin.com/in/vivek-kakadiya">
-  <img align="left" alt="Vivek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Vivek's LinkedIN" width="22px" src="https://github.com/vivekkakadiya/vivekkakadiya/assets/84114759/654ce162-9c22-44a0-a7b8-3c3926d5e0f7" />
 </a>
 
 
