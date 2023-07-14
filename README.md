@@ -6,10 +6,10 @@
   <img align="left" alt="Vivek's Discord" width="22px" src="discord.png" />
 </a>
 <a href="https://twitter.com/vivekkakadiya0">
-  <img align="left" alt="Vivek Kakadiya | Twitter" width="22px" src="linkedin.png" />
+  <img align="left" alt="Vivek Kakadiya | Twitter" width="22px" src="twitter.png" />
 </a>
 <a href="https://in.linkedin.com/in/vivek-kakadiya">
-  <img align="left" alt="Vivek's LinkedIN" width="22px" src="twitter.png" />
+  <img align="left" alt="Vivek's LinkedIN" width="22px" src="linkedin.png" />
 </a>
 
 
